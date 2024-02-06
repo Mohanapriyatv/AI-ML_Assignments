@@ -13,7 +13,7 @@ st.set_page_config(page_title= "Youtube Data Harvesting and Warehousing | By Moh
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This app is created for retriving data from the youtube."""})
+                   menu_items={'About': """# This app is created for retriving data from the youtube and the application allows users to access and analyze data from multiple YouTube channels"""})
 
 # CREATING OPTION MENU
 with st.sidebar:
